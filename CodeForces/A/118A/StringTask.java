@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class StringTask {
+public class StringTask { // 118A
 	public static void main(String[]args){
 		w();
 	}

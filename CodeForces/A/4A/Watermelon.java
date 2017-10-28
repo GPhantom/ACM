@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class watermelon {
+public class Watermelon { // 4A
 	public static void main(String[]args){
 		System.out.println(w());
 	}
